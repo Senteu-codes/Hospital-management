@@ -1,5 +1,5 @@
 public abstract class person {
-    private int personID;
+    protected int personID;
     protected String name;
     protected int phone;
     protected String email;
@@ -14,3 +14,4 @@ public abstract class person {
     }
     public abstract void displayInfo();
 }
+
