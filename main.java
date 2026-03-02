@@ -1,4 +1,4 @@
-public class  main {
+public class  Main {
     public static void main(String[] args) {
         doctor doc1 = new doctor(1, "Dr. Jared", 1234567890, "drjared@hospital.com", "123 Main St", 101, "Cardiology", "LIC12345");
         doc1.displayInfo();
@@ -14,3 +14,4 @@ public class  main {
 
 
 }
+
